@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevenkamanu
-- 👀 I’m interested in Android ,IOT,Web based App,Platform Application,Flutter
-- 🌱 I’m currently learning Nope
-- 💞️ I’m looking to collaborate on BlOCKCHAIN TECH
+- 👀 I’m interested in Android ,IOT,Web based App,Platform Application,Flutter and blockcahin tech
+- 🌱 I’m currently learning Python  ,Go
+- 💞️ I’m looking to collaborate on BlOCKCHAIN TECH/Fintech 
 - 📫 How to reach me https://wasksofts.com, mukamanusteven@gmail.com
 
 <!---
